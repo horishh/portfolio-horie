@@ -5,7 +5,8 @@ const Home = () => {
   return (
     <section
       id="home"
-      className="flex flex-col sm:flex-row items-center justify-center h-[600px] md:min-h-screen px-6 sm:px-10 gap-8 transition-colors duration-500 mb-40"
+      className="relative flex flex-col sm:flex-row items-center justify-center min-h-[110vh] px-6 sm:px-10 gap-8 transition-colors duration-500 mb-40"
+
       style={{
         color: "var(--text-color)",
         backgroundColor: "var(--bg-color)",
