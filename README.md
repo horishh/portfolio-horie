@@ -1,7 +1,7 @@
 
 # 🌐 Personal Portfolio – Horie Kyazimova
 
-![Portfolio Preview](assets/readme-liveDemo.png)
+![Portfolio Preview](assets/readme-liveDemo.jpg)
 
 This project is my personal portfolio website built with **React** and **Vite**.  
 It features a modern design, smooth animations, and both **Light** and **Dark** themes — where the background image appears only in Light mode for an elegant contrast.
