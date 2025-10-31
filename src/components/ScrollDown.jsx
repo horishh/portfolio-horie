@@ -4,7 +4,7 @@ import React from "react"; // Navbar.jsx, App.jsx, Home.jsx vb.
 
 const ScrollDown = () => {
   return (
-    <div className="absolute bottom-20 sm:bottom-10 left-1/2 -translate-x-1/2">
+    <div className="bg-amber-300 absolute bottom-10 left-1/2 -translate-x-1/2">
       <Link to="projects" smooth={true} duration={600} offset={-120}>
         <div className="flex flex-col items-center cursor-pointer">
           <span

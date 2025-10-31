@@ -80,7 +80,7 @@ const Navbar = () => {
 
         <ThemeToggle />
       </div>
-      <div className="flex items-center sm:hidden justify-between p-10">
+      <div className="flex items-center sm:hidden justify-between p-6">
         <img
           className="h-8 transition-opacity duration-300"
           src={theme === "dark" ? "/images/logo1.png" : "/images/logo2.png"}
