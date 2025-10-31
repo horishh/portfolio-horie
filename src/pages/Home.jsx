@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <section
       id="home"
-      className="relative flex flex-col items-center justify-between min-h-[70vh] sm:min-h-screen px-6 sm:px-10 pb-25 sm:pb-0 transition-colors duration-500 mb-40"
+      className="relative flex flex-col items-center justify-center min-h-[70dvh] sm:min-h-dvh px-6 sm:px-10 pb-20 sm:pb-0 transition-colors duration-500 mb-40"
       style={{
         color: "var(--text-color)",
       }}
